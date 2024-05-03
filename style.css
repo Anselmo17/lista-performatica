@@ -1,0 +1,37 @@
+
+
+.container{
+    position: relative;
+    width: 1000px;
+    height: 90vh;
+    margin: 0 auto;
+    display: block;
+    justify-content: center;
+    background-color: rgb(46, 111, 111);
+    border: 6px solid black;
+    padding: 20px;
+}
+
+h1{
+    font-weight: 300;
+    font-family: sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.space{
+    position: relative;
+   list-style: none;
+   margin-top: 5px;
+   font-size: 1.5em;
+   
+   max-height: 400px;
+   width: auto;
+   overflow: auto;
+   border: 3px solid black;
+}
+
+.line{
+    border-bottom: 2px solid black;
+    padding: 10px;
+}
